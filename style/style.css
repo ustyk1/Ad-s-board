@@ -1,0 +1,25 @@
+.row  {
+  margin: 0;
+}
+.header .logo > img {
+  width: 64px;
+  height: 64px;
+}
+.input-group {
+  flex-wrap: nowrap;
+}
+.search .form-wrap {
+  flex-wrap: nowrap;
+}
+.ad-sections-wrapper > a:hover,
+.footer a:hover   {
+  background-color: #e9ecef;
+}
+.ad-sections-wrapper > a > i {
+  font-size: 36px;
+  width: 60px;
+}
+.ad-sections-wrapper > a > span {
+  line-height: 36px;
+}
+
